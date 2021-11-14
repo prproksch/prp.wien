@@ -15,6 +15,7 @@ const siteMetadata = {
   github: 'https://github.com/prpwien',
   twitter: 'https://twitter.com/prpwien',
   youtube: 'https://youtube.com/prpwien',
+  instagram: 'https://instagram.com/prpwien',
   linkedin: 'https://www.linkedin.com/in/philipprproksch',
   locale: 'en-US',
   analytics: {

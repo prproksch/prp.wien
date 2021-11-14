@@ -4,8 +4,9 @@ avatar: /static/images/avatar.png
 occupation: Junior Fullstack Developer
 company: (To be)
 github: https://github.com/prpwien
+linkedin: https://www.linkedin.com/in/philipprproksch
 twitter: https://twitter.com/prpwien
-linkedin: https://www.linkedin.com/in/philipprproksch/
+instagram: https://instagram.com/prpwien
 email: mail@prp.wien
 ---
 

@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://www.prp.wien">
     <img
-      src="https://prp.wien/static/logo-57095d7f0b4a5d3a928855f30adcbb2a.png"
+      src="/static/images/logo.png"
       width="183"
       height="150"
       alt="prp.wien"
@@ -12,17 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.netlify.com">
-    <img
-      src="https://img.shields.io/badge/deploys%20by-netlify-00c7b7.svg?style=flat-square"
-      alt="deploys by netlify"
-    />
-  </a>
-</p>
-
-<p align="center">
-  My personal resume & portfolio.<br>
-  Built with <a href="https://www.gatsbyjs.org">Gatsby.js</a>.
+  My personal resume & portfolio.<br />
+  Built with <a href="https://www.nextjs.com">Next.js</a>.
 </p>
 
 <p align="center">
@@ -35,14 +26,25 @@
 
 ## :books: Features
 
-* Markdown sourcing
-* Estimated reading time for each post
-* Styled components
-* Nunito font
-* Textmarkerstyle headings
-* Plugins for offline support
+- Easy styling customization with [Tailwind 2.0](https://blog.tailwindcss.com/tailwindcss-v2) and primary color attribute
+- Near perfect lighthouse score - [Lighthouse report](https://www.webpagetest.org/result/210111_DiC1_08f3670c3430bf4a9b76fc3b927716c5/)
+- Lightweight, 45kB first load JS, uses Preact in production build
+- Mobile-friendly view
+- Light and dark theme
+- Supports [plausible](https://plausible.io/), [simple analytics](https://simpleanalytics.com/) and google analytics
+- [MDX - write JSX in markdown documents!](https://mdxjs.com/)
+- Server-side syntax highlighting with line numbers and line highlighting via [rehype-prism-plus](https://github.com/timlrx/rehype-prism-plus)
+- Math display supported via [KaTeX](https://katex.org/)
+- Automatic image optimization via [next/image](https://nextjs.org/docs/basic-features/image-optimization)
+- Flexible data retrieval with [mdx-bundler](https://github.com/kentcdodds/mdx-bundler)
+- Support for tags - each unique tag will be its own page
+- Support for multiple authors
+- TOC component
+- Support for nested routing of blog posts
+- Newsletter component with support for mailchimp, buttondown and convertkit
+- SEO friendly with RSS feed, sitemaps and more!
 
-## :clipboard: Tech Stack 
+## :clipboard: Tech Stack
 
 - Hosted on Netlify
 - styled-components for styling
@@ -50,8 +52,8 @@
 
 ## :octocat: License
 
-Only for educational purposes! 
-You are **not** allowed to use the given **images** and **texts** 
+Only for educational purposes!
+You are **not** allowed to use the given **images** and **texts**
 of this site publicly and/or commercially.
 You are allowed to use the code!
 
