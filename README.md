@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://www.prp.wien">
     <img
-      src="/static/images/logo.png"
+      src="/public/static/images/logo.png"
       width="183"
       height="150"
       alt="prp.wien"
