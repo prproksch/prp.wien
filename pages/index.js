@@ -15,7 +15,7 @@ export default function Home() {
             </span>{' '}
             <Typing />
           </h1>
-          <h2 className="text-l md:text-5xl">Junior Fullstack Developer</h2>
+          <h2 className="text-l md:text-4xl">I create software people love to use.</h2>
           <hr className="w-60 my-4 border-2 justify-self-center  mx-auto	" />
           <div className="flex mb-3 space-x-4 justify-center content-center">
             <SocialIcon kind="github" href={siteMetadata.github} size="6" />
