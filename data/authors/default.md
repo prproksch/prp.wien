@@ -17,4 +17,4 @@ It gave me valuable experience with JavaScript, SCSS, Node.JS, Webpack, handling
 
 As I’m always enthusiastic about new technology, I’m currently learning React to create modern, fast and beautiful websites. I’m also learning about IT-Security & PEN-Testing at TryHackMe and Hackthebox.
 
-In September 2021, I started visiting an Information Technology evening College with an expected graduation in 2025.
+In September 2021, I started visiting an Information Technology Evening College with an expected graduation in 2025.
