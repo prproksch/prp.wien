@@ -52,10 +52,9 @@
 - ESLint & Prettier for linting
 
 ## :octocat: License
+You are allowed to use the code!
 
-Only for educational purposes!
 You are **not** allowed to use the **images** and **texts**
 of this site.
-You are allowed to use the code!
 
 <!-- AUTO-GENERATED-CONTENT:END -->
