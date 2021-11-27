@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://www.prp.wien">
     <img
-      src="/static/images/logo.png"
+      src="/public/static/images/logo.png"
       width="183"
       height="150"
       alt="prp.wien"
@@ -45,16 +45,16 @@
 - SEO friendly with RSS feed, sitemaps and more!
 
 ## :clipboard: Tech Stack
-
-- Hosted on Netlify
-- styled-components for styling
+- React
+- Next.js
+- TailwindCss
+- Hosted on Vercel
 - ESLint & Prettier for linting
 
 ## :octocat: License
-
-Only for educational purposes!
-You are **not** allowed to use the given **images** and **texts**
-of this site publicly and/or commercially.
 You are allowed to use the code!
+
+You are **not** allowed to use the **images** and **texts**
+of this site.
 
 <!-- AUTO-GENERATED-CONTENT:END -->
