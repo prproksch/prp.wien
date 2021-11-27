@@ -17,7 +17,7 @@ export default function Stack() {
             Tech Stack
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            A list of technologies I use to build and maintain websites.
+            A list of technologies I use to build and maintain my projects.
           </p>
         </div>
         <div className="container py-12">
