@@ -1,27 +1,27 @@
 const siteMetadata = {
-  title: '@prpwien',
+  title: '@prpcodes',
   author: 'Philipp R. Proksch',
-  headerTitle: '@prpwien',
+  headerTitle: '@prpcodes',
   description: 'A Junior Fullstack Developer based in Vienna, Austria.',
   language: 'en-us',
-  siteUrl: 'https://prp.wien',
-  siteRepo: 'https://github.com/prpwien/prp.wien',
+  siteUrl: 'https://prp.codes',
+  siteRepo: 'https://github.com/prpcodes/prp.codes',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   heroImage: '/static/images/heroImage.svg',
   Image404: '/static/images/404.gif',
-  email: 'mail@prp.wien',
-  github: 'https://github.com/prpwien',
-  twitter: 'https://twitter.com/prpwien',
-  youtube: 'https://youtube.com/prpwien',
-  instagram: 'https://instagram.com/prpwien',
+  email: 'mail@prp.codes',
+  github: 'https://github.com/prpcodes',
+  twitter: 'https://twitter.com/prpcodes',
+  youtube: 'https://youtube.com/prpcodes',
+  //instagram: 'https://instagram.com/prpcodes',
   linkedin: 'https://www.linkedin.com/in/philipprproksch',
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
-    simpleAnalytics: false, // true or false
+    simpleAnalytics: true, // true or false
     googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
   },
   newsletter: {
@@ -46,7 +46,7 @@ const siteMetadata = {
       metadata: '0',
       // theme example: light, dark, dark_dimmed, dark_high_contrast
       // transparent_dark, preferred_color_scheme, custom
-      theme: 'light',
+      theme: 'dark',
       // theme when dark mode
       darkTheme: 'transparent_dark',
       // If the theme option above is set to 'custom`

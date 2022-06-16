@@ -11,7 +11,7 @@ export default function Footer() {
           <div>{` • `}</div>
           <div>{`© ${new Date().getFullYear()}`}</div>
           <div>{` • `}</div>
-          <Link href={siteMetadata.github}>@prpwien</Link>
+          <Link href={siteMetadata.github}>@prpcodes</Link>
         </div>
       </div>
     </footer>

@@ -1,5 +1,6 @@
 import '@/css/tailwind.css'
 import '@/css/prism.css'
+import '@/css/wave.css' // for the wave emoji
 
 import { ThemeProvider } from 'next-themes'
 import Head from 'next/head'
