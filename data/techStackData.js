@@ -2,6 +2,7 @@ const techStackData = [
   { title: 'HTML', image: '/static/images/stack/html-5.svg' },
   { title: 'CSS', image: '/static/images/stack/css-3.svg' },
   { title: 'JavaScript', image: '/static/images/stack/javascript.svg' },
+  { title: 'TypeScript', image: '/static/images/stack/typescript.svg' },
   { title: 'React', image: '/static/images/stack/react.svg' },
   { title: 'Redux', image: '/static/images/stack/redux.svg' },
   { title: 'Material UI', image: '/static/images/stack/mui.svg' },
