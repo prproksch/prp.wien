@@ -9,7 +9,7 @@ const techStackData = [
   { title: 'Amazon Web Services', image: '/static/images/stack/aws.svg' },
   { title: 'Node.js', image: '/static/images/stack/nodejs.svg' },
   { title: 'Git', image: '/static/images/stack/git.svg' },
-  { title: 'C#', image: '/static/images/stack/c-sharp.svg' },
+  { title: 'Go', image: '/static/images/stack/go.svg' },
   { title: 'MySQL', image: '/static/images/stack/mysql.svg' },
   { title: 'TailwindCss', image: '/static/images/stack/tailwindcss.svg' },
   { title: 'VSCode', image: '/static/images/stack/vscode.png' },
