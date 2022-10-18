@@ -11,7 +11,7 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   heroImage: '/static/images/heroImage.svg',
   Image404: '/static/images/404.gif',
-  email: 'mail@prp.codes',
+  email: 'work@prp.codes',
   github: 'https://github.com/prpcodes',
   twitter: 'https://twitter.com/prpcodes',
   youtube: 'https://youtube.com/prpcodes',
