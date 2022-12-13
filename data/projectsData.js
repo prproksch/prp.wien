@@ -9,7 +9,7 @@ const projectsData = [
     title: 'Eastside84.com',
     description: `A webiste for Eastside84, a car tuning business located near Vienna. It was created using Wordpress and Woocommerce.`,
     imgSrc: '/static/images/projects/eastside84.jpg',
-    href: 'https://eastside84.com',
+    //href: 'https://eastside84.com',
   },
   {
     title: 'Mfc-hohenau.at',
