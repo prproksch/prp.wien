@@ -12,7 +12,7 @@ These articles are intended to document my journey of learning TypeScript. Toget
 
 ## Summary
 
-The summary is updated after each article is published.
+The summary is updated after each article is published.  
 The articles will be published on a weekly basis, starting on January 9th, 2023.
 
 1. [What is TypeScript?](http://localhost:3000/blog/what-is-typescript)

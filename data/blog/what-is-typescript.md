@@ -110,7 +110,6 @@ If a variable returns null, it is safe to assume that it has been set to null.
 
 ```typescript
 let x: number = null
-let y: number = undefined
 ```
 
 ## Undefined
@@ -120,9 +119,10 @@ A good paradigm is to not use it to reset variables, as it can lead to confusion
 Instead, use null.
 
 ```typescript
+let x: number = undefined
+```
 
 I hope this helps give you a better understanding of the different types available in TypeScript!
 Be sure to check out the next article in this series.
 
 Thanks for reading!
-```
