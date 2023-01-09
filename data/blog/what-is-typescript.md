@@ -18,7 +18,7 @@ For example, if you have a variable hello that is meant to hold a string, you ca
 let hello: string = world
 ```
 
-There are the same types in TypeScript as in JavaScript, like <strong>string</strong>, <strong>number</strong>, <strong>boolean</strong>, and <strong>object</strong>.
+There are the same types in TypeScript as in JavaScript, like **string**, **number**, **boolean**, and **object**.
 However, TypeScript also has a few additional types that provide more information about the data that is stored in a variable.
 
 ## Number
@@ -105,7 +105,7 @@ function sayHello(): void {
 ## Null
 
 Is used to denote the absence of a value. It is commonly used as the return type of functions that do not return a value.
-Null means that the variable has been <strong>explicitly set</strong> to not contain a value.
+Null means that the variable has been **explicitly set** to not contain a value.
 If a variable returns null, it is safe to assume that it has been set to null.
 
 ```typescript
@@ -114,7 +114,7 @@ let x: number = null
 
 ## Undefined
 
-It is used to denote that that the variable has not been set to anything <strong>yet</strong>.
+It is used to denote that that the variable has not been set to anything **yet**.
 A good paradigm is to not use it to reset variables, as it can lead to confusion.
 Instead, use null.
 
