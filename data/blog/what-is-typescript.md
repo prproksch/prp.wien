@@ -102,16 +102,27 @@ function sayHello(): void {
 }
 ```
 
-## Null and Undefined
+## Null
 
-These types are used to denote the absence of a value. They are commonly used as the return type of functions that do not return a value. Null means that the variable has been explicitly set to its value, while undefined means that the variable has not been set to anything yet.
+Is used to denote the absence of a value. It is commonly used as the return type of functions that do not return a value.
+Null means that the variable has been <strong>explicitly set</strong> to not contain a value.
+If a variable returns null, it is safe to assume that it has been set to null.
 
 ```typescript
 let x: number = null
 let y: number = undefined
 ```
 
+## Undefined
+
+It is used to denote that that the variable has not been set to anything <strong>yet</strong>.
+A good paradigm is to not use it to reset variables, as it can lead to confusion.
+Instead, use null.
+
+```typescript
+
 I hope this helps give you a better understanding of the different types available in TypeScript!
 Be sure to check out the next article in this series.
 
 Thanks for reading!
+```
