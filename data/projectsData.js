@@ -3,7 +3,7 @@ const projectsData = [
     title: 'arm.letztegeneration.at',
     description: `The Austrian branch of the Letztegeneration uses the tool to manage their activists. Using T3Stack, consisting of  Next.js, Typescript, Tailwind and tRPC.`,
     imgSrc: '/static/images/projects/letztegeneration.jpg',
-    href: 'https://www.arm.letztegeneration.at',
+    //href: 'https://www.arm.letztegeneration.at',
   },
   {
     title: 'veganhacktivists.org',
