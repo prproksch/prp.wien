@@ -2,7 +2,7 @@ const siteMetadata = {
   title: '@prpcodes',
   author: 'Philipp R. Proksch',
   headerTitle: '@prpcodes',
-  description: 'A Junior Fullstack Developer based in Vienna, Austria.',
+  description: 'A Fullstack Developer based in Vienna, Austria.',
   language: 'en-us',
   siteUrl: 'https://prp.codes',
   siteRepo: 'https://github.com/prpcodes/prp.codes',
