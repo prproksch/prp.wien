@@ -13,10 +13,7 @@ const siteMetadata = {
   Image404: '/static/images/404.gif',
   email: 'work@prp.codes',
   github: 'https://github.com/prpcodes',
-  twitter: 'https://twitter.com/prpcodes',
-  youtube: 'https://youtube.com/prpcodes',
-  //instagram: 'https://instagram.com/prpcodes',
-  linkedin: 'https://www.linkedin.com/in/philipprproksch',
+  mastodon: 'https://mastodon.social/@prpcodes',
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
