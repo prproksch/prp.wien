@@ -16,6 +16,8 @@ export default function App({ Component, pageProps }) {
     <ThemeProvider attribute="class">
       <Head>
         <meta content="width=device-width, initial-scale=1" name="viewport" />
+        {/** Mastodon Verification */}
+        <link rel="me" href="https://mastodon.social/@prpcodes" type="text/html" media="screen" />
       </Head>
       {isDevelopment && <ClientReload />}
       <Analytics />
