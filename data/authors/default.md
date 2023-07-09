@@ -1,12 +1,9 @@
 ---
 name: Philipp R. Proksch
 avatar: /static/images/avatar.png
-occupation: Junior Fullstack Developer
-# company:
+occupation: Fullstack Developer
 github: https://github.com/prpcodes
-linkedin: https://www.linkedin.com/in/philipprproksch
-twitter: https://twitter.com/prpcodes
-# instagram: https://instagram.com/
+mastodon: https://mastodon.social/@prpcodes
 email: mail@prp.codes
 ---
 
