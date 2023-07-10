@@ -25,7 +25,7 @@ export default function Blog({ posts, initialDisplayPosts, pagination }) {
         initialDisplayPosts={initialDisplayPosts}
         pagination={pagination}
         title="All Posts"
-        description="Please consult with me on any specific topic before assuming I currently still share that opinion or position. These notes are messy and random by nature and are often kept for historical significance even though I radically disagree with my own previous positions."
+        description="Please consult with me on any specific topic before assuming I currently still share that opinion or position. These notes are naturally messy and random, and they're often kept for historical value, even if I completely disagree with my own previous positions."
       />
     </>
   )
