@@ -1,12 +1,12 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://www.prp.wien">
+  <a href="https://www.prp.codes">
     <img
       src="/public/static/images/logo.png"
       width="183"
       height="150"
-      alt="prp.wien"
-      title="prp.wien"
+      alt="prp.codes"
+      title="prp.codes"
     />
   </a>
 </p>
@@ -18,7 +18,7 @@
 
 <p align="center">
   <strong>
-    Available at <a href="https://www.prp.wien">www.prp.wien</a>.
+    Available at <a href="https://www.prp.codes">www.prp.codes</a>.
   </strong>
 </p>
 
